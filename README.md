@@ -3,15 +3,16 @@ Implementation of basic STL containers: vector and array. It was an educational 
 Tried to write vector and arrey so they could behave like their original version(allocator awareness, strong exception safety, etc.) as far as it was possible for me.
 
 ## Usage
-Download:
+
+### Download:
 ```
 git clone https://github.com/sisthers/containers.git
 ```
-Run tests:
+### Run tests:
 ```
 make test
 ```
-Coverage:
+### Coverage:
 ```
 make gcov_report
 ```
